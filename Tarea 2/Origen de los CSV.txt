@@ -1,0 +1,8 @@
+
+Para countryContinent:
+
+https://www.kaggle.com/datasets/statchaitya/country-to-continent
+
+Para world_population:
+
+https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset?select=world_population.csv
